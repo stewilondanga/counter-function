@@ -24,14 +24,14 @@
   margin: 5px;
 }
 
-/*.count
-{
+.count {
   line-height: 100px;
-  color:white;
-  margin-left:30px;
-  font-size:25px;
+  color: white;
+  margin-left: 30px;
+  font-size: 25px;
 }
-#talkbubble {
+
+/*#talkbubble {
    width: 120px;
    height: 80px;
    background: red;
