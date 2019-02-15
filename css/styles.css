@@ -13,18 +13,18 @@
   height: 1.5em;
 }
 
-/*#shiva
-{
+#shiva {
   width: 100px;
-	height: 100px;
-	background: red;
-	-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
-	border-radius: 50px;
-  float:left;
-  margin:5px;
+  height: 100px;
+  background: red;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  float: left;
+  margin: 5px;
 }
-.count
+
+/*.count
 {
   line-height: 100px;
   color:white;
