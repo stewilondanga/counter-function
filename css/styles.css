@@ -31,18 +31,19 @@
   font-size: 25px;
 }
 
-/*#talkbubble {
-   width: 120px;
-   height: 80px;
-   background: red;
-   position: relative;
-   -moz-border-radius:    10px;
-   -webkit-border-radius: 10px;
-   border-radius:         10px;
-  float:left;
-  margin:20px;
+#talkbubble {
+  width: 120px;
+  height: 80px;
+  background: red;
+  position: relative;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  float: left;
+  margin: 20px;
 }
-#talkbubble:before {
+
+/*#talkbubble:before {
    content:"";
    position: absolute;
    right: 100%;
